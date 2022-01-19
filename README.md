@@ -1,6 +1,6 @@
 # project0  
 
-#### Creative Coding I Project 0  
+#### Creative Coding I: Project 0  
 
 A Processing code that moves my dog Channah's face around with the mouse location.  
 
